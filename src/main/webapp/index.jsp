@@ -59,7 +59,7 @@
               <select>
                 <option hidden>Country</option>
                 <option>America</option>
-                <option>Japan</option>
+                <option>Korea</option>
                 <option>India</option>
                 <option>Nepal</option>
               </select>

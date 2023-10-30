@@ -19,7 +19,7 @@
         </div>
 
         <div class="input-box">
-          <label>gmail Address</label>
+          <label>outlook Address</label>
           <input type="text" placeholder="Enter email address" required />
         </div>
 
@@ -60,7 +60,7 @@
                 <option hidden>Country</option>
                 <option>America</option>
                 <option>Korea</option>
-                <option>India</option>
+                <option>China</option>
                 <option>Nepal</option>
               </select>
             </div>
